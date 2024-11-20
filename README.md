@@ -12,5 +12,5 @@ This project is a **Music Recommendation System** built using the *Spotify Music
 
 ## Technologies Used  
 
-- **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, Spotipy, Yellowbrick, Streamlit
+- **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, Yellowbrick, Spotipy
 - **ML Techniques**: Clustering (K-means), Dimensionality Reduction (PCA, t-SNE), Cosine Similarity
